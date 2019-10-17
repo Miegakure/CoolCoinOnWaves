@@ -1,0 +1,2 @@
+# CoolCoinOnWaves
+Very cool coin.
